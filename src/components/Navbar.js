@@ -8,7 +8,7 @@ const Navbar = () => {
       <div className="container">
         <a className="navbar-brand" href="#">
           PORTFOLIO
-          {/* <img src={logo} alt="logo.." /> */}
+          
         </a>
         <button
           className="navbar-toggler"
@@ -30,22 +30,22 @@ const Navbar = () => {
               </a>
             </li>
             <li className="nav-item">
-              <a className="nav-link" href="">
+              <a className="nav-link" href="About.js">
                 About
               </a>
             </li>
             <li className="nav-item">
-              <a className="nav-link" href="#">
+              <a className="nav-link" href="Skills.js">
                 Skills
               </a>
             </li>
             <li className="nav-item">
-              <a className="nav-link" href="#">
+              <a className="nav-link" href="Project.js">
                 Project
               </a>
             </li>
             <li className="nav-item">
-              <a className="nav-link" href="#">
+              <a className="nav-link" href="Contact.js">
                 Contact
               </a>
             </li>
